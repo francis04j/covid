@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/fraadedi/Development/corona/venv/bin/python3.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
